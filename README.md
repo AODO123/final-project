@@ -15,7 +15,7 @@ Supports product CRUD, cart management, and basic shopping flow for frontend or 
 1. Clone the repository:
    ```bash
    git clone https://github.com/AODO123/final-project.git
-   cd "Final project"
+   cd 'final-project"
    ```
 2. Install dependencies:
    ```bash
